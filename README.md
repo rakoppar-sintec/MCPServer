@@ -63,4 +63,4 @@ Open cmd or powershell and then navigate to the root folder of the project.
     
 Architecture diagram - (MCP Client with LLM and MCP Server with an external API server)
 ------------------------------
-![img.png](img.png)
+![img.png](MCPServer/img.png)
